@@ -81,3 +81,16 @@ LaTeX2e.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar makeindex tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> prot2.5-2
++ Revision: 757585
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> prot2.5-1
++ Revision: 719920
+- texlive-xdoc
+- texlive-xdoc
+- texlive-xdoc
+
