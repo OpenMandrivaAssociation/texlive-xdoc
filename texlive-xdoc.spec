@@ -6,7 +6,7 @@
 # catalog-version prot2.5
 Name:		texlive-xdoc
 Version:	prot2.5
-Release:	7
+Release:	8
 Summary:	Extending the LaTeX doc system
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xdoc
